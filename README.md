@@ -1,59 +1,49 @@
-# AR Dinosaur Encyclopedia
+# AI AR Dinosaur Guide
 
-## Overview
-
-AR Dinosaur Encyclopedia is an Augmented Reality application built with Unity and AR Foundation that allows users to spawn and explore 3D dinosaur models in their real-world environment. The application combines immersive AR visualization with educational information panels to create an interactive learning experience.
+AI AR Dinosaur Guide is a Unity-based Augmented Reality application that allows users to place dinosaurs in the real world and learn about them using AI-generated information.
 
 ## Features
 
-* AR plane detection
-* Dinosaur spawning in real-world environments
-* Multiple dinosaur models
-* Interactive information panels
-* Real-time AR visualization
-* Mobile AR experience using ARCore
+* AR plane detection using AR Foundation
+* Place dinosaurs in the real environment
+* Select different dinosaur models
+* View dinosaur information through a UI panel
+* Ask questions and receive AI-generated dinosaur information using Gemini AI
 
 ## Technologies Used
 
 * Unity
+* C#
 * AR Foundation
 * ARCore
-* C#
-* XR Interaction Components
+* Gemini API
+* TextMeshPro
 
-## How It Works
+## What I Learned
 
-1. The application scans the environment and detects surfaces.
-2. The user taps a detected plane.
-3. A dinosaur model is spawned into the AR scene.
-4. An information panel displays educational details about the selected dinosaur.
-5. Users can observe the dinosaur from different angles in their physical environment.
+Through this project, I learned:
 
-## Dinosaur Learning Experience
+* AR plane detection and object placement
+* Building mobile AR applications with Unity
+* API integration in Unity
+* Managing UI panels and user interactions
+* Working with AI-generated responses
 
-The project demonstrates how Augmented Reality can be used to improve educational experiences by allowing users to visualize prehistoric animals within their surroundings.
+## How to Run
 
-## Skills Demonstrated
-
-* AR Foundation development
-* Plane detection and raycasting
-* Object spawning and placement
-* UI panel integration
-* Unity scene management
-* Mobile AR deployment
-* C# scripting
+1. Clone the repository.
+2. Open the project in Unity.
+3. Add your own Gemini API key.
+4. Build and run on an ARCore-supported Android device.
 
 ## Future Improvements
 
-* Additional dinosaur species
-* Voice narration
-* AI-powered dinosaur identification
-* Dinosaur animations and behaviors
-* Interactive quiz mode
-* Multi-object placement
+* Voice interaction with AI
+* More dinosaur species
+* Improved UI and user experience
 
 ## Author
 
-Sakthidharshan J
+Sakthi Dharshan
 
-Computer Science Graduate | AR/VR Developer
+Computer Science Student interested in AR/VR and AI-powered applications.
