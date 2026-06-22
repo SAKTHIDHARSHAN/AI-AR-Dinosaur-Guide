@@ -42,6 +42,8 @@ Through this project, I learned:
 * More dinosaur species
 * Improved UI and user experience
 
+## Demo video : https://youtube.com/shorts/mkAUkQIK4fQ
+
 ## Author
 
 Sakthi Dharshan
